@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Carbon Footprint Calculator</string>
+    <string name="result">result</string>
+    <string name="result1">Result</string>
+    <string name="button">Button</string>
+    <string name="calculate">Calculate</string>
+    <string name="student_data">student_data</string>
+    <string name="write_data">write_data</string>
+    <string name="read_data">read_data</string>
+    <string name="delete_all">delete_all</string>
+    <string name="name">Name</string>
+    <string name="day">Day</string>
+    <string name="track_data">Track Data</string>
+</resources>
